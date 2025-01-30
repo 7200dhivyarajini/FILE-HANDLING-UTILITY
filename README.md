@@ -143,3 +143,6 @@ The program was tested under different scenarios to ensure correctness:
 This Java file handling utility efficiently demonstrates **reading, writing, appending, and modifying text files**. It leverages **BufferedReader, FileWriter, and Scanner** to interact with files dynamically while ensuring proper resource management. The interactive approach makes it useful for various real-world applications such as **configuration file handling, data logging, and text processing**.  
 
 This project successfully meets the requirements and serves as a **robust foundation for advanced file operations in Java.** 🚀
+
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/69f28691-4594-4977-a001-7418a3f0e501)
